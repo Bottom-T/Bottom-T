@@ -4,7 +4,7 @@
 Telegram  :  @us7a5
 
 
-[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](us7a5)
+[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/us7a5)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMEER&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 - 𝘐 𝘈𝘔 𝘚𝘛𝘐𝘓𝘓 𝘓𝘌𝘈𝘙𝘕𝘐𝘕𝘎 𝘎𝘐𝘛 & 𝘎𝘐𝘛𝘏𝘜𝘉  
