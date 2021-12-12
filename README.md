@@ -1,7 +1,5 @@
  Hello 👋
 
-YouTube بث مباشر فيديو
-
 
 Telegram!بث مباشر بوت
 Telegram  :  @us7a5
@@ -19,7 +17,7 @@ Telegram  :  @us7a5
 ![Jepthon STATE](https://github-readme-stats.vercel.app/api?username=Bottom-T&include_all_commits=true&count_private=true&theme=highcontrast)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bottom-T&layout=compact&theme=radical)](https://github.com/Bottom-T/HI-TELE)
+<img src="https://e3arabi.com/wp-content/uploads/2021/06/telegram-5772057_1280-1.png"/?username=Bottom-T&layout=compact&theme=radical)](https://github.com/Bottom-T/HI-TELE)
 
 
 Languages and Tools I Love ❤️
