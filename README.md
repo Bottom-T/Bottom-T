@@ -1,7 +1,6 @@
  Hello 👋
 
 
-Telegram!بث مباشر بوت
 Telegram  :  @us7a5
 
 
@@ -15,10 +14,6 @@ Telegram  :  @us7a5
 <h4 align="center"><b>MY GITHUB STATS -💛</b></h4>
 
 ![Jepthon STATE](https://github-readme-stats.vercel.app/api?username=Bottom-T&include_all_commits=true&count_private=true&theme=highcontrast)
-
-
-<p align="center"><a href="https://t.me/us7a5"><img src="https://e3arabi.com/wp-content/uploads/2021/06/telegram-5772057_1280-1.png/api?username=Bottom
-
 
 Languages and Tools I Love ❤️
 
