@@ -3,17 +3,9 @@
 
 Telegram  :  👇
 
+https://e3arabi.com/wp-content/uploads/2021/06/telegram-5772057_1280-1.png
+[![telegram badge]()](https://t.me/us7a5)
 
-[![telegram badge](https://e3arabi.com/wp-content/uploads/2021/06/telegram-5772057_1280-1.png)](https://t.me/us7a5)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAMEER&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
-
-- 𝘐 𝘈𝘔 𝘚𝘛𝘐𝘓𝘓 𝘓𝘌𝘈𝘙𝘕𝘐𝘕𝘎 𝘎𝘐𝘛 & 𝘎𝘐𝘛𝘏𝘜𝘉  
-- 𝘗𝘠𝘛𝘏𝘖𝘕  𝘓𝘖𝘝𝘌𝘙
-- 𝘔𝘖𝘚𝘛 𝘖𝘍 𝘔𝘠 𝘖𝘞𝘕 𝘙𝘌𝘗𝘖 𝘍𝘖𝘙 𝘛𝘌𝘓𝘌𝘎𝘙𝘈𝘔
-
-<h4 align="center"><b>MY GITHUB STATS -💛</b></h4>
-
-![Jepthon STATE](https://github-readme-stats.vercel.app/api?username=Bottom-T&include_all_commits=true&count_private=true&theme=highcontrast)
 
 Languages and Tools I Love ❤️
 
