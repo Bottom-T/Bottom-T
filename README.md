@@ -1,4 +1,9 @@
- 𓍹 _NEW YORK 🧸♡_♡ 𓍻
+ ## Peter 
+
+[![SVG_Typing](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I+am+Peter+as+Rohithaditya;Noob+Developer+%E2%9D%A4%EF%B8%8F;Pero+in+telegram+bot;Love+python+coding;Freelancer)](https://github.com/Bottom-T)
+
+---
+𓍹 _NEW YORK 🧸♡_♡ 𓍻
 
 ---
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANL0KE%2Fhit-counter&count_bg=%23C592CB&title_bg=%23171717&icon=&icon_color=%23AE8BB2&title=Profile+views&edge_flat=false"/></a>  <img src = "https://raw.githubusercontent.com/Bottom-T/Bottom-T//master/kimo-Gif/danslove.gif" width = "60px" /> 
@@ -12,7 +17,7 @@
 [<img align="left" alt="us7a5 | Instagram" width="45px" src="https://img.icons8.com/nolan/100/instagram-new.png" />][instagram]
 
 
-###
+---
 <br />
 
 ### _Language and Tool 👨🏻‍💻:_
