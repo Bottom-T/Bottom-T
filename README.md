@@ -10,10 +10,10 @@
 
 
 
-################################ _Connect with me 📱:_
+###_Connect with me 📱:_
 
-################################[<img align="left" alt="us7a5 | Telegram" width="45px" src="https://img.icons8.com/nolan/120/telegram-app.png" />][telegram] 
-################################[<img align="left" alt="us7a5 | Instagram" width="45px" src="https://img.icons8.com/nolan/100/instagram-new.png" />][instagram]
+[<img align="left" alt="us7a5 | Telegram" width="45px" src="https://img.icons8.com/nolan/120/telegram-app.png" />][telegram] 
+[<img align="left" alt="us7a5 | Instagram" width="45px" src="https://img.icons8.com/nolan/100/instagram-new.png" />][instagram]
 
 
 <br />
