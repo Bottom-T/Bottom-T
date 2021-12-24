@@ -9,7 +9,7 @@
 
 
 
-# _Connect with me 📱:_
+# _Connect with me📱
 
 [<img align="left" alt="us7a5 | Telegram" width="45px" src="https://img.icons8.com/nolan/120/telegram-app.png" />][telegram] 
 [<img align="left" alt="us7a5 | Instagram" width="45px" src="https://img.icons8.com/nolan/100/instagram-new.png" />][instagram]
@@ -17,7 +17,7 @@
 
 <br />
 
-# _Language and Tool 👨🏻‍💻:_
+# _Language and Tool👨🏻‍💻
 
 <img align="left" alt="Python" width="45px" src="https://img.icons8.com/nolan/96/python.png" />
 <img align="left" alt="GitHub" width="45px" src="https://img.icons8.com/nolan/120/github.png" />
