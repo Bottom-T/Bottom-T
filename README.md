@@ -1,4 +1,4 @@
-[![SVG_Typing](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+%E2%9D%A4%EF%B8%8F;Pero+in+telegram+bot;Love+python+coding;Freelancer)](https://github.com/Bottom-T)
+[![SVG_Typing](https://readme-typing-svg.herokuapp.com/?lines=New_York;+Hello%E2%9D%A4%EF%B8%8F;Pero+in+telegram+bot;Love+python+coding;Freelancer)](https://github.com/Bottom-T)
 
 ---
 ### 𓍹 _NEW YORK 🧸♡_♡ 𓍻
