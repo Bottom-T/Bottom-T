@@ -1,5 +1,5 @@
 [![SVG_Typing](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+%E2%9D%A4%EF%B8%8F;Pero+in+telegram+bot;Love+python+coding;Freelancer)](https://github.com/Bottom-T)
-
+https://app.redislabs.com/#/activate-registration?key=928894c8c0dace4a2bd2c6c6d257787b&u=menarada14%40gmail.com&a=1408819&t=1640489396967
 ---
 ### 𓍹 _NEW YORK 🧸♡_♡ 𓍻
 
