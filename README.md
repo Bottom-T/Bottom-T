@@ -29,7 +29,7 @@
 
 
 <details>
- ### <summary> USA ⚜️</summary>
+ ### <summary>⚜️</summary>
  # <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Bottom-T&theme=material-palenight" alt="Bottom-T" /></p>
  # <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bottom-T&show_icons=true&theme=material-palenight&locale=en" alt="Bottom-T" /></p>
 </details>
